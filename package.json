@@ -1,0 +1,44 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "autoprefixer": "^10.4.12",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.5",
+    "browser-sync": "^2.27.10",
+    "core-js": "^3.25.5",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.3",
+    "sass": "^1.55.0",
+    "webpack": "^5.74.0",
+    "webpack-stream": "^7.0.0"
+  },
+  "name": "mylibrary",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browserslist": "^4.21.4",
+    "caniuse-lite": "^1.0.30001416",
+    "electron-to-chromium": "^1.4.274",
+    "escalade": "^3.1.1",
+    "fraction.js": "^4.2.0",
+    "nanoid": "^3.3.4",
+    "node-releases": "^2.0.6",
+    "normalize-range": "^0.1.2",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.17",
+    "postcss-value-parser": "^4.2.0",
+    "source-map-js": "^1.0.2",
+    "update-browserslist-db": "^1.0.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
